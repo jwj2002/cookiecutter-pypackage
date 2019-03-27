@@ -5,5 +5,6 @@
   "project_name": "My new project",
   "repo_name": "mynewproject",
   "project_short_description": "A sort description of my new project.",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "year": "2019"
 }
