@@ -17,7 +17,7 @@ setup(
     version='{{ cookiecutter.version }}',
     description='{{ cookiecutter.project_short_description }}',
     author='{{ cookiecutter.full_name }}',
-    author_email='{{ cookiecustter.email }}',
+    author_email='{{ cookiecutter.email }}',
     url='https://github/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}',
     packages=[
         '{{ cookiecutter.repo_name }}',
