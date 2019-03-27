@@ -1,0 +1,75 @@
+# Virtualenvs
+
+# dotenv
+.flaskenv
+.env
+
+# Byte-compiled / optimized /DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.cache
+.DS_store
+
+# Migrations
+migrations/
+
+#Backup files
+.#*
+
+# C extensions
+*.so
+
+# Packages
+.Python
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+.pytest_cache
+
+# Translations
+*.mo
+
+# Sphinx
+docs/build
+
+# npm
+/node_modules/
+
+# sqlite
+.sqlite
+*.db
+
+# Pycharm
+.idea
+.DS_Store
+
+# Cookiecutter
+output/
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Complexity
+output/*.html
+output/*/index.html
